@@ -566,8 +566,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact & Support
 
 - **Website**: [neontales.elpeef.com](https://neontales.elpeef.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/neon-tales/issues)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/mrbrightsides/neon-tales/issues)
+- **Email**: khudri@binadarma.ac.id/support@elpeef.com
 
 ---
 
