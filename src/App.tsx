@@ -347,13 +347,6 @@ export default function App() {
           )}
         </AnimatePresence>
       </main>
-
-      {/* Footer Branding */}
-      <footer className="fixed bottom-0 left-0 right-0 p-4 text-center pointer-events-none z-50">
-        <p className="text-[10px] text-white/20 font-medium tracking-widest uppercase">
-          Powered by Gemini AI • Made with Love for Kids
-        </p>
-      </footer>
     </div>
   );
 }
