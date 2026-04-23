@@ -250,18 +250,12 @@ const StoryDisplay: React.FC<StoryDisplayProps> = ({
 
       {/* Footer Info */}
       <div className="mt-12 pt-6 border-t border-white/5 flex flex-wrap items-center justify-between gap-4 text-white/40 text-[10px]">
-        <div className="flex items-center gap-4">
-          <div className="flex items-center gap-1">
-            <Info size={12} />
-            <span>Smart Highlighting Active</span>
-          </div>
-          <span>•</span>
-          <span>{new Date(story.createdAt).toLocaleDateString()}</span>
-        </div>
         <div className="flex items-center gap-1">
-          <Sparkles size={12} className="text-yellow-500/50" />
-          <span>Powered by Gemini AI</span>
+          <Info size={12} />
+          <span>Smart Highlighting Active</span>
         </div>
+        <span>•</span>
+        <span>{new Date(story.createdAt).toLocaleDateString()}</span>
       </div>
     </motion.div>
   );
